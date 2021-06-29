@@ -3,8 +3,13 @@
     padding: 5px;
     margin: 0px;
     border-radius: 30px;
-    
+         
 }
+#cabecera {
+    text-align: center;
+    font-size: 60px;
+}
+
 #parrafo {
     color:rgb(0, 102, 255);
     font-size: 50px;
@@ -13,4 +18,5 @@
 
 #subtitulo {
     text-align: center;
-}
+    }
+
