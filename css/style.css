@@ -2,7 +2,9 @@
     background-color: red;
     padding: 5px;
     margin: 0px;
-    border-radius: 30px;
+    border-radius: 15px;
+    border: black 5px outset;
+    
          
 }
 #cabecera {
