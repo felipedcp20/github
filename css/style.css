@@ -33,3 +33,11 @@
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+#cabecera2 {
+    background-color: rgb(147, 179, 209);
+    padding: 5px;
+    margin: 0px;
+    border-radius: 15px;
+    border: black 5px outset;
+    }
