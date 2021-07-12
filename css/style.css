@@ -1,14 +1,17 @@
 #contenedor {
-    background-color: red;
+    background-color: rgb(224, 127, 127);
     padding: 5px;
     margin: 0px;
-    border-radius: 30px;
+    border-radius: 15px;
+    border: black 5px outset;
+    
          
 }
 #cabecera {
     text-align: center;
     font-size: 60px;
     font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
     
 }
 
@@ -16,6 +19,8 @@
     color:rgb(0, 102, 255);
     font-size: 50px;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
         }
 
 #subtitulo {
@@ -24,6 +29,15 @@
 
 #brazo {
     color: white;
+    font-size: 35px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+#cabecera2 {
+    background-color: rgb(147, 179, 209);
+    padding: 5px;
+    margin: 0px;
+    border-radius: 15px;
+    border: black 5px outset;
+    }
